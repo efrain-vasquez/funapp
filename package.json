@@ -1,0 +1,24 @@
+{
+  "name": "funapp",
+  "version": "1.0.0",
+  "description": "This will be an app for us to learn more about full stack development",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efrain-vasquez/funapp.git"
+  },
+  "author": "efrain vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efrain-vasquez/funapp/issues"
+  },
+  "homepage": "https://github.com/efrain-vasquez/funapp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
