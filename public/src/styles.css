@@ -1,0 +1,17 @@
+.buttonContainer {
+  position: relative;
+  width: 100%;
+  background-color: silver;
+}
+
+.firstB {
+  background-color: yellow
+}
+
+.secondB {
+  background-color: red
+}
+
+.thirdB {
+  background-color: blue
+}
