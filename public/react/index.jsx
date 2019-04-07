@@ -1,10 +1,10 @@
 //this will be my root folder for react where i wil connect server to front end
-
-
 import React from 'react';
 import ReactDom from 'react-dom';
 import $ from 'jquery';
 import First from "./components/first.jsx";
+import Second from "./components/second.jsx";
+
 
 // extends React.component creates connection
 class App extends React.Component{
@@ -13,8 +13,8 @@ class App extends React.Component{
   render() {
     return(
       <div>
-        <h1> Thanks Holacode! </h1>
         <First/>
+        <Second/>
       </div>
     )
   }

@@ -1,7 +1,14 @@
-.buttonContainer {
+.parentDiv {
   position: relative;
   width: 100%;
+  height: 300px;
+}
+
+
+.buttonContainer {
+  width: 100%;
   background-color: silver;
+  text-align: center;
 }
 
 .firstB {
@@ -13,5 +20,10 @@
 }
 
 .thirdB {
-  background-color: blue
+  background-color: orange
+}
+
+.random {
+  width: 30%;
+  height: inherit;
 }
