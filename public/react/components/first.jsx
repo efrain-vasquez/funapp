@@ -2,7 +2,7 @@ import React,{Component} from 'react';
 import axios from 'axios';
 
 
-export default class First extends React.Component {
+export default class First extends Component {
   constructor(props){
     super(props);
     this.state = {
