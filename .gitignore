@@ -1,3 +1,2 @@
-//never load node modules or bundle.js files to github.
-
 node_modules
+public/react/bundle.js
